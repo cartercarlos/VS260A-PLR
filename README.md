@@ -8,7 +8,7 @@ Title for the project : Effects of light flash properties on pupillary light ref
 • Brief description of the project (methods, expected results etc.): We propose to use eye-tracking of pupil size to measure PLR to different light stimuli.  We will vary stimuli by eccentricity (as well as different locations in y), size of stimulus, and with different wavelengths.
 Hypotheses: 
 Wavelength/color of light will have no effect on pupillary response, (once total power of transmitted luminance at the retina is taken into account).  (We may modify this as we learn more about RGC cells sensitivity to melanopsin.)
-https://www.frontiersin.org/articles/10.3389/fneur.2018.01019/full  - blue light has different response / S cone opposed by from melanopsin-containing cells 
+https://www.pnas.org/content/111/43/15568.short  - blue light has different response / S cone opposed by from melanopsin-containing cells 
 Size  
 Ambiguity in defining “size” … are we stepping down luminance or will it also scale w/ stimuli size.
 Eccentricity/location
