@@ -5,7 +5,7 @@ Team members : Leah Johnston, Chun-Hsiao (Daniel) Yeh, Carter Carlos
 Title for the project : Effects of light flash properties on pupillary light reflex
 
 • One paragraph abstract : The size of the pupil changes to accommodate the amount of ambient light, but this change is dependent on a variety of factors including attention, arousal, saccadic activity, and other variables.  Mainly, the pupillary light reflex (PLR) is a conserved ocular mechanism across species to balance the conflict between environmental light level and the desire for high visual acuity.  In this project, we will investigate how light sources in peripheral vision change the PLR.
-<br>• Brief description of the project (methods, expected results etc.): We propose to use eye-tracking of pupil size to measure PLR to different light stimuli.  We will vary stimuli by eccentricity (as well as different locations in y), size of stimulus, and with different wavelengths.
+<br>• Brief description of the project (methods, expected results etc.): We propose to use eye-tracking of pupil size to measure PLR to different light stimuli.  We will vary stimuli by eccentricity (as well as different locations in y), size of stimulus.
 <br>Hypotheses:<br> 
 Eccentricity/location  
 Foveal flashes will elicit more pupil constriction than peripheral flashes.
