@@ -1,8 +1,10 @@
 import cv2
 import numpy as np
+from scipy.ndimage import filters
 
 #level of intensity
 bright = [110,140,170,200,230,255]
+sigma = 50
 
 for b in bright:
     img = cv2.imread('misc/white.jpg') #load rgb image
@@ -13,7 +15,9 @@ for b in bright:
 
     #Turn black pixels to white and vice versa
     img[black]=(0,0,0)
-    img[white]=(bright,bright,bright)
+    img[white]=(b,b,b)
+
+    img = filters.gaussian_filter(img, sigma)
 
 
-    cv2.imwrite("white_proced_b{}.jpg".format(b), img)
+    cv2.imwrite("gauss_proced_b{}_sigma{}.jpg".format(b,sigma), img)
